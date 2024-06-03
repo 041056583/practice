@@ -1,4 +1,4 @@
-## needs to see 
+# needs to see
 
 headings,
 buttons, anchors, Ul and OL, img tags, forms, text input, radios, tables, hr tag, abb tag, code tag
@@ -13,4 +13,4 @@ src folder, css folder and sass files and sass partials, utiliy classes, consist
 
 ## how to install
 
-get started: termial stuff.
+download the css file and then insert this link in your html
